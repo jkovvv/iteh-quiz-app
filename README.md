@@ -20,7 +20,7 @@ Backend (Laravel)
 
 Kloniraj repozitorijum:
 
-    git clone https://github.com/jkovvv/web-quiz-app.git
+    git clone https://github.com/jkovvv/iteh-quiz-app.git
     cd quiz_laravel
 
 Instaliraj PHP zavisnosti:
